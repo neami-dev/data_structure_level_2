@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b7d03beee900fe6dd2e68fb49fbb29dcae78fa69")]
 [assembly: System.Reflection.AssemblyProductAttribute("mic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
